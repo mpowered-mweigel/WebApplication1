@@ -20,7 +20,7 @@ namespace WebApplication1
         [WebMethod]
         public string HelloWorld()
         {
-            return "Hello World 1, 2, 4";
+            return "Hello World 1, 2, 3";
         }
     }
 }
